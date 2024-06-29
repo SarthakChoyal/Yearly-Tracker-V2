@@ -15,7 +15,7 @@ or
 
 ## Screenshots
 
-![App Screenshot](305shots_so.png)
+![App Screenshot](85_1x_shots_so.png)
 
 
 ## Acknowledgements
